@@ -35,3 +35,7 @@ members = [
     "benchmarks",
     "examples",
 ]
+
+[patch.crates-io]
+# package-upgrades branch
+darwin-libproc = { git = "https://github.com/MoixaEnergy/darwin-libproc.git", rev = "cbd571e4be87a6603de328d1f1f0ad54d7bdfedf" }
