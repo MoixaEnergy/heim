@@ -6,7 +6,7 @@ publish = false
 
 [dependencies]
 heim = { path = "../heim", features = ["full"] }
-futures = "0.3.19"
+futures = "0.3.0"
 criterion = "0.3.5"
 smol = "1.2.5"
 
