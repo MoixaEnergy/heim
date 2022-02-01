@@ -19,7 +19,7 @@ heim-common = { version = "0.1.0-rc.1", path = "../heim-common" }
 heim-runtime = { version = "0.1.0-rc.1", path = "../heim-runtime" }
 heim-cpu = { version = "0.1.0-rc.1", path = "../heim-cpu" }
 cfg-if = "1.0.0"
-libc = "0.2.0"
+libc = "0.2.116"
 lazy_static = "1.4.0"
 ordered-float = { version = "2.10.0", default-features = false }
 memchr = "2.4.0"
