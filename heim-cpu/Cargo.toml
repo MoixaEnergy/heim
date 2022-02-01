@@ -39,8 +39,8 @@ features = [
 ]
 
 [target.'cfg(target_os = "macos")'.dependencies]
-libc = "0.2.114"
-mach = "0.3.2"
+libc = "0.2.0"
+mach = "0.3.0"
 
 [dev-dependencies]
 heim-derive = { version = "0.1.0-rc.1", path = "../heim-derive" }
